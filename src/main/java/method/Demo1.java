@@ -4,7 +4,7 @@ package method;
  * ClassName: Demo1
  * Package: method
  * Description:
- *      使用字节码文件，分析i=i++；的结果为
+ *      使用字节码文件，分析i=i++；的结果结果为0
  * @Author Chen Ziyun
  * @Version 1.0
  */
